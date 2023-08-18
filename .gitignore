@@ -1,0 +1,4 @@
+venv/
+*.pyc
+*.pt
+samples/sample-01.mp4
